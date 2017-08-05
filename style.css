@@ -1,0 +1,44 @@
+
+#top {
+		
+  		margin-bottom: 10px;
+  		background: #ffffff;
+  		
+  		border-bottom-style: solid;
+  		border-bottom-width: 2px;
+  		border-bottom-color: #cccccc; 
+  			
+
+}
+
+
+
+
+#name {
+
+	margin-left: 75px;
+	background-color: #4aaaa5;
+	text-align: center;
+	color: white;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 30px;
+}
+
+#nav {
+	float: right;
+	margin-right: 100px;
+	color: #cccccc;
+}
+#index {
+		padding: 30px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #cccccc;
+		background: #ffffff;
+}
+#myp {
+	
+	margin-bottom: 10px;
+	margin-right: 10px;
+	
+}
