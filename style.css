@@ -2,20 +2,12 @@
 #top {
 		
   		margin-bottom: 10px;
-  		background: #ffffff;
-  		
   		border-bottom-style: solid;
   		border-bottom-width: 2px;
   		border-bottom-color: #cccccc; 
-  			
-
 }
 
-
-
-
 #name {
-
 	margin-left: 75px;
 	background-color: #4aaaa5;
 	text-align: center;
@@ -27,18 +19,35 @@
 #nav {
 	float: right;
 	margin-right: 100px;
-	color: #cccccc;
+	
 }
+
 #index {
-		padding: 30px;
 		border-style: solid;
 		border-width: 1px;
 		border-color: #cccccc;
-		background: #ffffff;
+		
 }
+
 #myp {
-	
 	margin-bottom: 10px;
 	margin-right: 10px;
-	
+}
+
+#footer {
+		background: #666666;
+		border-top-style: solid;
+		border-top-width: 5px;
+		border-top-color: #4aaaa5;
+		color: white;
+		text-align: center;
+}
+p {
+	color: #777777;
+}
+
+#heading {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 20px;
+	color: #4aaaa5;
 }
